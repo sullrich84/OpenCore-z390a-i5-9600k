@@ -4,6 +4,7 @@ Hackintosh OpenCore USB Loader
 ## Specs
 
 ```
+OS: BigSur
 Mainboard: ASUS PRIME z390-A
 CPU: Intel i5 9600kk
 RAM: 16GB
