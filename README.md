@@ -11,7 +11,7 @@ Hackintosh OpenCore (0.6.6) USB Loader
 ## Specs
 
 | Key | Value |  
-|---|:---:|
+|---|---|
 | OS | BigSur |
 | Mainboard | ASUS PRIME z390-A |
 | CPU | Intel i5 9600k |
