@@ -4,7 +4,7 @@ Hackintosh OpenCore (0.6.6) USB Loader
 ### BIOS Settings
 
 | Key | Value |  
-|---|---|
+|---|:---:|
 | Load optimized defaults | Load |
 | AI overclock tuner | `enabled` |
 | XHCI Hand-off | `XMP I` |
