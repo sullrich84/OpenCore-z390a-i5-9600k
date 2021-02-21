@@ -3,10 +3,12 @@ Hackintosh OpenCore (0.6.6) USB Loader
 
 ### BIOS Settings
 
-1. Load optimized defaults
-2. AI overclock tuner `enabled`
-3. XHCI Hand-off `XMP I`
-4. Intel Virtualization Technology `enable` *(docker)*
+| Key | Value |  
+|---|---|
+| Load optimized defaults | Load |
+| AI overclock tuner | `enabled` |
+| XHCI Hand-off | `XMP I` |
+| Intel Virtualization Technology | `enable` |
 
 ## Specs
 
